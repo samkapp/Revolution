@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="button_background">#00c5df</color>
+    <color name="background">#6b6b6b</color>
+    <color name="dialog_background">#df1a00</color>
+    <color name="toast_background">#df1a00</color>
+    <color name="toolbar_background">#00c5df</color>
+    <color name="highlight_color">#00708a</color>
+</resources>

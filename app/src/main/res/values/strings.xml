@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Rev2-SK</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- content descriptions for ImageButtons -->
+    <string name="undoButtonDescription">Undo the last move.</string>
+    <string name="restartButtonDescription">Start a new game.</string>
+    <string name="rotateRightButtonDescription">Rotates the subgrid to the right</string>
+    <string name="rotateLeftButtonDescription">Rotates the subgrid to the left</string>
+
+    <!--  toolbar options menu items -->
+    <string name="menu_about">About</string>
+    <string name="menu_exit">Exit</string>
+
+    <!-- dialogs -->
+    <string name="copyright">2024 Sam Kapp</string>
+    <string name="exit">Are you sure you want to exit?</string>
+    <string name="solved_dialog_title">GAME OVER</string>
+    <string name="solved_dialog_msg">You have solved the puzzle!</string>
+
+    <!-- toasts -->
+    <string name="undo_fail">There are no moves to undo.</string>
+    <string name="anchor_fail">That is an invalid anchor point.</string>
+    <string name="no_anchor_fail">No anchor has been chosen.</string>
+    <string name="restart_fail">The game is already in the starting state.</string>
+    <string name="success">You have solved the puzzle!</string>
+
+</resources>

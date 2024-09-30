@@ -1,0 +1,4 @@
+<resources>
+    <dimen name="table_layout_margin_vertical">48dp</dimen>
+    <dimen name="linear_layout_margin_vertical">8dp</dimen>
+</resources>
